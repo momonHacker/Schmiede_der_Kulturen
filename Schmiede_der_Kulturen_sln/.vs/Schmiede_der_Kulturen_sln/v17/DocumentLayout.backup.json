@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Schmiede_der_Kulturen\\Schmiede_der_Kulturen_sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2F9B9B-D4A3-43E7-8EFC-DC82C1A1EE26}|Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Schmiede_der_Kulturen\\Schmiede_der_Kulturen_sln\\Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2B2F9B9B-D4A3-43E7-8EFC-DC82C1A1EE26}|Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.vcxproj|solutionrelative:Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schmiede_der_Kulturen_vs.ico - Icon [64x64, 32-Bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Schmiede_der_Kulturen\\Schmiede_der_Kulturen_sln\\Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.ico",
+              "RelativeDocumentMoniker": "Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.ico",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Schmiede_der_Kulturen\\Schmiede_der_Kulturen_sln\\Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.ico - Icon [64x64, 32-Bit, BMP]",
+              "RelativeToolTip": "Schmiede_der_Kulturen_vs\\Schmiede_der_Kulturen_vs.ico - Icon [64x64, 32-Bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-24T15:38:43.905Z",
+              "EditorCaption": " - Icon [64x64, 32-Bit, BMP]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
